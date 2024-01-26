@@ -1,0 +1,8 @@
+D:\Projects\Simple Text writer\bin\Debug\Simple Text writer.exe.config
+D:\Projects\Simple Text writer\bin\Debug\Simple Text writer.exe
+D:\Projects\Simple Text writer\bin\Debug\Simple Text writer.pdb
+D:\Projects\Simple Text writer\obj\Debug\Simple Text writer.csproj.AssemblyReference.cache
+D:\Projects\Simple Text writer\obj\Debug\Simple Text writer.csproj.SuggestedBindingRedirects.cache
+D:\Projects\Simple Text writer\obj\Debug\Simple Text writer.csproj.CoreCompileInputs.cache
+D:\Projects\Simple Text writer\obj\Debug\Simple Text writer.exe
+D:\Projects\Simple Text writer\obj\Debug\Simple Text writer.pdb
